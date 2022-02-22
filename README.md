@@ -11,15 +11,15 @@
 1. Clone this repository or download zip
 
 ```bash
-git clone https://github.com/kdandy/engjoy
+git clone https://github.com/kdandy/cloudwarehouse
 ```
 
 2. Open `yoursite/index.html` to see the dashboard
 
 ## Demo and Documentation
 
-- Open the [demo page](http://engjoy.kdandy.com)
-- Open the [source code](http://github.com/kdandy/engjoy)
+- Open the [demo page](https://cloudwarehouse.netlify.app)
+- Open the [source code](http://github.com/kdandy/cloudwarehouse)
 
 ### Note
 
@@ -32,11 +32,11 @@ Code released under the MIT license.
 
 ## About the Author
 
-engJoy is created by <a href="https://kdandy.com">jaden</a>.
+Cloudwarehouse is created by <a href="https://kdandy.com">jaden</a>.
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/kdandy/engjoy/issues/new) here on GitHub.
+Have a bug or an issue with this template? [Open a new issue](https://github.com/kdandy/cloudwarehouse/issues/new) here on GitHub.
 
 ## Donate
 
