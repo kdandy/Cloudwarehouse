@@ -1,45 +1,81 @@
-<h1 align="center">Cloudwarehouse</h1>
-<p align="center">Cloudwarehouse  is an Admin Dashboard Template that can help you develop faster. Made with Bootstrap 5. No jQuery dependency.</p>
-<p align="center">
-
-</p>
+<h1 align="center">Welcome to Cloudwarehouse repository! 👋🏻</h1>
 
 ![Screenshot](https://user-images.githubusercontent.com/50922642/155069428-6b5202e2-0320-428f-b14a-99a6a596dab7.jpg)
 
-## Installation
+<p></p>
 
-1. Clone this repository or download zip
+<h4 align="center">A website template to start your startup, social media or portfolio website built with <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a>.
+</h4>
+
+<p></p>
+
+<p align="center">
+	<img src="https://img.shields.io/github/issues/kdandy/Cloudwarehouse?style=flat-square">
+	<img src="https://img.shields.io/github/stars/kdandy/Cloudwarehouse?style=flat-square"> 
+	<img src="https://img.shields.io/github/forks/kdandy/Cloudwarehouse?style=flat-square">
+	<img src="https://img.shields.io/github/license/kdandy/Cloudwarehouse?style=flat-square">
+	<img src="https://img.shields.io/badge/maintained%3F-no-red.svg?style=flat-square">
+	<img src="https://img.shields.io/github/followers/kdandy.svg?style=flat-square&label=followers">
+</p>
+
+<p align="center">
+  <a href="#about">About Project</a> •
+  <a href="#demo">Demo</a> •
+  <a href="#download">Download & Install</a> •
+  <a href="#support">Support</a> •
+  <a href="#contribution">Contribution</a> •
+  <a href="#license">License</a>
+</p>
+
+<p></p>
+
+<h2 id="about">🐱‍🏍 About Cloudwarehouse</h2>
+A free open-source website template and production ready to start your startup, social media or portfolio website easily and blazingly fast by just changing the assets and text
+
+<p></p>
+
+<h2 id="demo">🏠 Demo Page</h2>
+
+You can find and view the demo in [here](https://cloudwarehouse.netlify.app/)
+
+<p></p>
+
+<h2 id="download">🐱‍💻 How to Run & Edit it Locally</h2>
+
+To run this application or web, at least one web browser is installed on your computer.
 
 ```bash
-git clone https://github.com/kdandy/cloudwarehouse
+# Clone this repository or download in
+$ git clone https://github.com/kdandy/rolex.git
+
+# Double click the index.html in azure folder or open folder in visual studio code or another IDE you use to edit it!
+
 ```
 
-2. Open `yoursite/index.html` to see the dashboard
+<p></p>
 
-## Demo and Documentation
+<h2 id="support">💌 Support</h2>
 
-- Open the [demo page](https://cloudwarehouse.netlify.app)
-- Open the [source code](http://github.com/kdandy/cloudwarehouse)
+You guys can support me on the tracteer platform! Your support will be very helpful for me, but with you this star project has also been very helpful, you know!
 
-### Note
+<p></p>
 
-- If you want to make some changes in the CSS style. Don't edit the `.css` file, use the SCSS file instead.
-- Since we use Nunjucks, if you want to make changes to the HTML structure, make sure you change the source file (Nunjucks) located in `src`.
+<a href="https://trakteer.id/kdandy" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-5.png" height="50" style="border:0px;height:50px;" alt="Trakteer Saya"></a><a href="https://www.buymeacoffee.com/kdandy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kdandy" /></a><a href="https://ko-fi.com/kdandy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kdandy" /></a><p></p>
 
-## Copyright and License
+<h2 id="license">🤝 Contribution</h2>
 
-Code released under the MIT license.
+I really appreciate contributions, issues and feature requests because this application is far from perfect. Feel free to pull requests and make changes to this project.
 
-## About the Author
+Since I finished this project myself, but there are many features and many things that can be improved, I really appreciate your help.
 
-Cloudwarehouse is created by <a href="https://kdandy.com">jaden</a>.
+<p></p>
 
-## Bugs and Issues
+<h2 id="lisensi">📝 License</h2>
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/kdandy/cloudwarehouse/issues/new) here on GitHub.
+- Copyright © 2022 DANDY FAISHAL FAHMI
+- Cloudwarehouse is an open-source web application licensed under the MIT license
 
-## Donate
+---
 
-You can support me at [Trakteer](https://trakteer.id/kdandy/tip). or
-<p><a href="https://www.buymeacoffee.com/kdandy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kdandy" /></a><a href="https://ko-fi.com/kdandy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kdandy" /></a></p><br><br>
-</p>
+**<p align="center">Made with ❤️ by DANDY FAISHAL FAHMI</p>**
+
