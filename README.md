@@ -62,7 +62,7 @@ You guys can support me on the tracteer platform! Your support will be very help
 
 <a href="https://trakteer.id/kdandy" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-5.png" height="50" style="border:0px;height:50px;" alt="Trakteer Saya"></a><a href="https://www.buymeacoffee.com/kdandy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kdandy" /></a><a href="https://ko-fi.com/kdandy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kdandy" /></a><p></p>
 
-<h2 id="license">🤝 Contribution</h2>
+<h2 id="contribution">🤝 Contribution</h2>
 
 I really appreciate contributions, issues and feature requests because this application is far from perfect. Feel free to pull requests and make changes to this project.
 
@@ -70,7 +70,7 @@ Since I finished this project myself, but there are many features and many thing
 
 <p></p>
 
-<h2 id="lisensi">📝 License</h2>
+<h2 id="license">📝 License</h2>
 
 - Copyright © 2022 DANDY FAISHAL FAHMI
 - Cloudwarehouse is an open-source web application licensed under the MIT license
